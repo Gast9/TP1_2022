@@ -15,5 +15,6 @@ Baptiste Caillé
 Profesores
 <h1>
 R. Palma
+  <p>
 A. Gomez
 </h1>
