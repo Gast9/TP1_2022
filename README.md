@@ -1,4 +1,4 @@
-# TP1_2022
+# TP1_2022 Grupo GJJAB
 Gastón Barmat
 <p>
 Juan Ignacio Gutierrez Glielmi
